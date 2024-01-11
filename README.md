@@ -1,6 +1,6 @@
 ## How to handle multiple tabs in automation test in Python-selenium on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=Python-selenium-multiple-tabs)
 
-If you want to handle multiple tabs using an automation test in Python-selenium on LambdaTest, you can use the follwing steps. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
+If you want to handle multiple tabs using an automation test in Python-selenium on LambdaTest, you can use the follwing steps. 
 
 ### Code
 
